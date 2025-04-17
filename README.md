@@ -21,8 +21,6 @@ I'm currently learning *Python* and building real-world beginner projects to sha
 🛠️ Tools & Skills:
 - Python (beginner – intermediate)
 - Git & GitHub
-- Debugging & logic building
-- Currently learning: HTML, CSS, JavaScript
 
 
 📫 Connect with Me:
