@@ -1,0 +1,14 @@
+def calculate_cgpa():
+    total_credits = int(input("Enter total credits: "))
+    total_points = 0
+
+    for i in range(1, total_credits + 1):
+        print(f"Enter grade point for subject {i}: ", end="")
+        grade_point = float(input())
+        total_points += grade_point
+
+    cgpa = total_points / total_credits
+ print(f"Your CGPA is: {cgpa}")
+
+calculate_cgpa()
+
