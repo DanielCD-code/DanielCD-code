@@ -4,7 +4,27 @@
 - 💞️ I’m looking to collaborate on tutors
 
 
-<!---
-DanielCD-code/DanielCD-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👋 Hi, I'm Daniel CD
+
+💻 Aspiring Python Developer | Tech Enthusiast | Future Software Engineer
+
+I'm currently learning *Python* and building real-world beginner projects to sharpen my skills. My goal is to become a full-stack developer and contribute to innovative tech — maybe even with *Samsung* someday 😉.
+
+---
+
+🚀 Projects I'm working on:
+- ✅ CGPA Calculator
+- 📝 To-Do List App (CLI version)
+- 📁 Python file organizer (coming soon)
+
+🛠️ Tools & Skills:
+- Python (beginner – intermediate)
+- Git & GitHub
+- Debugging & logic building
+- Currently learning: HTML, CSS, JavaScript
+
+
+📫 Connect with Me:
+-  LinkedIn: [https://www.linkedin.com/in/daniel-irewole-6881a2359]
+-  GitHub: [https://github.com/Daniel-CD](https://github.com/Daniel-CD)
