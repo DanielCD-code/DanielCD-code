@@ -9,7 +9,7 @@
 
 💻 Aspiring Python Developer | Tech Enthusiast | Future Software Engineer
 
-I'm currently learning *Python* and building real-world beginner projects to sharpen my skills. My goal is to become a full-stack developer and contribute to innovative tech — maybe even with *Samsung* someday 😉.
+I'm currently learning *Python* and building real-world beginner projects to sharpen my skills. My goal is to become a full-stack developer and contribute to innovative tech 😉.
 
 ---
 
